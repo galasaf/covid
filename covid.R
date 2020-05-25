@@ -1,10 +1,6 @@
 #
-# This is a Shiny web application. You can run the application by clicking
-# the 'Run App' button above.
-#
-# Find out more about building applications with Shiny here:
-#
-#    http://shiny.rstudio.com/
+# This is a Shiny web application. The app can be run from galasaf.shinyapps.io/covid.
+# The app shows COVID-19 deaths and confirmed cases by US state
 #
 
 
